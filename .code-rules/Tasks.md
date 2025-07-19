@@ -4,7 +4,7 @@ This document breaks down the work needed to build and complete the app based on
 
 ---
 
-### **Phase 1: App Setup and Configuration**
+### **Phase 1: App Setup and Configuration** ✅
 
 This phase covers the foundational steps to get the app registered and authenticated with Shopify.
 
